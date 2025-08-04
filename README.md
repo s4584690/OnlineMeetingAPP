@@ -1,5 +1,6 @@
 # OnlineMeetingAPP_CreatiFlow
-<img width="2416" height="1468" alt="image" src="https://github.com/user-attachments/assets/0bb80715-6a03-4fc2-8ca8-a7a73ebe0a11" />
+<img width="787" height="1119" alt="image" src="https://github.com/user-attachments/assets/8ef9d37e-f048-4c02-a546-1b8c2913b5e3" />
+
 
 ## Hi‐fi Interactive Prototype
 <img width="2416" height="1468" alt="image" src="https://github.com/user-attachments/assets/d45c5286-79b7-4055-ac4e-7927dad822c3" />
